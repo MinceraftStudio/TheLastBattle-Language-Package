@@ -1,0 +1,24 @@
+FpsReducer.key.guiOpen=打开配置界面
+
+key.categories.FpsReducer=FPS减速器
+
+fpsreducer.config.menu.enableFpsReducer=FPS减速器
+fpsreducer.config.menu.ignoreHoldButton=忽略鼠标按键
+fpsreducer.config.menu.reducingInBackground=游戏菜单减少FPS
+fpsreducer.config.menu.suppressSound=不活动时减少FPS
+#fpsreducer.config.menu.suppressedVolume=Suppression volume ratio
+fpsreducer.config.menu.enableHUD=游戏内显示HUD
+fpsreducer.config.menu.enableHUD.0=关闭
+fpsreducer.config.menu.enableHUD.1=左上
+fpsreducer.config.menu.enableHUD.2=右上
+fpsreducer.config.menu.enableHUD.3=右下
+fpsreducer.config.menu.enableHUD.4=左下
+fpsreducer.config.menu.hudScale=HUD大小
+fpsreducer.config.menu.waitingTimeMin=等待时间（分）
+fpsreducer.config.menu.waitingTimeSec=等待时间（秒）
+fpsreducer.config.menu.idleFPS=闲置时的FPS
+fpsreducer.config.menu.returnToGame=完成
+fpsreducer.config.playerConfig=玩家配置
+fpsreducer.config.globalConfig=全局配置
+fpsreducer.config.ON=开启
+fpsreducer.config.OFF=关闭

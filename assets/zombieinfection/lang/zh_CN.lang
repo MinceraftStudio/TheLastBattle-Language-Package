@@ -1,0 +1,50 @@
+# Chat Messages #
+
+zombieinfection.chat.infected=You have been infected, find the cure.
+zombieinfection.chat.playerinfected=You have been infected by another player, find the cure.
+zombieinfection.chat.rotteninfection=You have been infected by rotten food.
+
+zombieinfection.update.major=A new major update for Zombie Infection is available.
+zombieinfection.update.minor=A new minor update for Zombie Infection is available.
+zombieinfection.update.download=["Click for... [",{"text":"CurseForge Download","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Download page","color":"aqua"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/227518-zombie-infection/files"}},"]"]
+
+# Entities #
+
+entity.ZIZombieChicken.name=Zombie Chicken
+entity.ZIZombieCow.name=Zombie Cow
+entity.ZIZombiePig.name=Zombie Pig
+entity.ZIZombieSheep.name=Zombie Sheep
+
+# Items #
+
+item.zombieinfection:cure.name=传染病解药
+item.zombieinfection:infectedEgg.name=感染的蛋
+item.zombieinfection:infectedMilk.name=感染的奶
+
+# Item Groups #
+
+itemGroup.zombieInfection=僵尸感染
+
+# Tooltips #
+
+tooltip.cure=治愈僵尸传染病
+tooltip.infectedeyes=The infection has spread to your eyes.
+
+# Potions #
+
+potion.zombieinfection.infection=Infection
+potion.zombieinfection.cure=传染病治疗
+
+# Easter Eggs #
+
+easteregg.stew=Noodle Soup
+easteregg.description.stew=Erhm.. Are you sure these are noodles?
+
+easteregg.egg=Turtle Egg
+easteregg.description.egg=Looks quite odd
+
+easteregg.sponge=Cheese
+easteregg.description.sponge=Made by Dizkonnekted
+
+easteregg.cooked_porkchop=Bacon
+easteregg.description.cooked_porkchop=Looks tasty...
