@@ -1,0 +1,25 @@
+itemGroup.instaTab=Insta House Blocks
+itemGroup.instaDirTab=Directional Blocks
+
+tile.BrickBox.name=Brick Pill Box
+tile.BrickHouse.name=Brick House
+tile.CobbleHouse.name=Cobblestone House
+tile.WoodHouse.name=Wooden House
+tile.CobbleBox.name=Cobblestone Pill Box
+tile.SandstoneBox.name=Sandstone Pill Box
+tile.Pool.name=Pool
+tile.Fountain.name=Fountain
+tile.Tent.name=Tent
+tile.TreeHouse.name=Tree House
+tile.Stable.name=Stable
+tile.MobTrap.name=Mob Trap
+tile.TradingPost.name=Trading Post
+tile.MineShaft.name=Mine Shaft
+tile.CustomHouse.name=Custom House
+tile.ModernHouse.name=Modern House
+tile.Library.name=Library
+
+tile.North.name=North Facing Block
+tile.South.name=South Facing Block
+tile.East.name=East Facing Block
+tile.West.name=West Facing Block

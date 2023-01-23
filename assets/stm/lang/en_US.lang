@@ -1,0 +1,77 @@
+item.ItemSuperPickaxe.name=Super Pickaxe
+item.ItemSuperAxe.name=Super Axe
+item.ItemSuperShovel.name=Super Shovel
+item.ItemSuperSword.name=Super Sword
+item.ItemSuperHoe.name=Super Hoe
+
+item.ItemUltraPickaxe.name=Ultra Pickaxe
+item.ItemUltraAxe.name=Ultra Axe
+item.ItemUltraShovel.name=Ultra Shovel
+item.ItemUltraSword.name=Ultra Sword
+item.ItemUltraHoe.name=Ultra Hoe
+
+item.ItemXRayPickaxe.name=XRay Pickaxe
+item.ItemXRayAxe.name=XRay Axe
+item.ItemXRayShovel.name=XRay Shovel
+item.ItemXRaySword.name=XRay Sword
+item.ItemXRayHoe.name=XRay Hoe
+
+item.ItemSuperXRayPickaxe.name=Super XRay Pickaxe
+item.ItemSuperXRayAxe.name=Super XRay Axe
+item.ItemSuperXRayShovel.name=Super XRay Shovel
+item.ItemSuperXRaySword.name=Super XRay Sword
+item.ItemSuperXRayHoe.name=Super XRay Hoe
+
+item.ItemSuperIngot.name=Super Ingot
+item.ItemUltraIngot.name=Ultra Ingot
+item.ItemXRayIngot.name=XRay Ingot
+item.ItemSuperXRayIngot.name=Super XRay Ingot
+
+item.ItemSuperApple.name=Super Apple
+item.ItemCookedSuperApple.name=Cooked Super Apple
+item.ItemSuperBeef.name=Super Beef
+item.ItemCookedSuperBeef.name=Cooked Super Beef
+item.ItemSuperPork.name=Super Pork
+item.ItemCookedSuperPork.name=Cooked Super Pork
+item.ItemSuperChicken.name=Super Chicken
+item.ItemCookedSuperChicken.name=Cooked Super Chicken
+item.ItemSuperBeetroot.name=Super Beetroot
+item.ItemCookedSuperBeetroot.name=Cooked Super Beetroot
+item.ItemSuperBeetrootSoup.name=Super Beetroot Soup
+item.ItemSuperBread.name=Super Bread
+item.ItemCookedSuperBread.name=Cooked Super Bread
+
+item.ItemSuperHelmet.name=Super Helmet
+item.ItemSuperChestplate.name=Super Chestplate
+item.ItemSuperLeggings.name=Super Leggings
+item.ItemSuperBoots.name=Super Boots
+
+item.ItemUltraHelmet.name=Ultra Helmet
+item.ItemUltraChestplate.name=Ultra Chestplate
+item.ItemUltraLeggings.name=Ultra Leggings
+item.ItemUltraBoots.name=Ultra Boots
+
+item.ItemXRayHelmet.name=XRay Helmet
+item.ItemXRayChestplate.name=XRay Chestplate
+item.ItemXRayLeggings.name=XRay Leggings
+item.ItemXRayBoots.name=XRay Boots
+
+item.ItemSuperXRayHelmet.name=Super XRay Helmet
+item.ItemSuperXRayChestplate.name=Super XRay Chestplate
+item.ItemSuperXRayLeggings.name=Super XRay Leggings
+item.ItemSuperXRayBoots.name=Super XRay Boots
+
+tile.BlockSuperOre.name=Super Ore
+tile.BlockSuperBlock.name=Super Block
+
+tile.BlockUltraBlock.name=Ultra Block
+
+tile.BlockXRay.name=XRay Block
+tile.BlockSuperXRay.name=Super XRay Block
+
+itemGroup.tabTools=Tools
+itemGroup.tabCombat=Combat
+itemGroup.tabFood=Food
+itemGroup.tabBlocks=Blocks
+itemGroup.tabItems=Items
+itemGroup.tabArmor=Armor
