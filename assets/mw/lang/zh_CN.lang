@@ -1,41 +1,41 @@
-item.m40gasmask_helmet.name=M40 Gas Mask
+item.m40gasmask_helmet.name=M40防毒面具
 
-entity.mw.bandit1.name=Bandit
+entity.mw.bandit1.name=强盗
 entity.mw.gassy.name=Gassy
 
-item.mw_gas-detector.name=Gas Detector
-item.mw_GasGrenade.name=Gas Grenade
+item.mw_gas-detector.name=毒气检测仪
+item.mw_GasGrenade.name=毒气手雷
 
-item.Marine_helmet.name=Marine Helmet
-item.Marine_chest.name=Marine Chestplate
-item.Marine_boots.name=Marine Boots
+item.Marine_helmet.name=海军陆战队 头盔
+item.Marine_chest.name=海军陆战队 护甲
+item.Marine_boots.name=海军陆战队 靴子
 
-item.Spetznaz_helmet.name=Spetsnaz Helmet
-item.Spetznaz_chest.name=Spetsnaz Chestplate
-item.Spetznaz_boots.name=Spetsnaz Boots
+item.Spetznaz_helmet.name=阿尔法小组 头盔
+item.Spetznaz_chest.name=阿尔法小组 护甲
+item.Spetznaz_boots.name=阿尔法小组 靴子
 
-item.Swat_helmet.name=Swat Helmet
-item.Swat_chest.name=Swat Chestplate
-item.Swat_boots.name=Swat Boots
+item.Swat_helmet.name=SWAT特战小组 头盔
+item.Swat_chest.name=SWAT特战小组 护甲
+item.Swat_boots.name=SWAT特战小组 靴子
 
 item.GasSwat_helmet.name=Swat Gas Mask
 item.GasSwat_chest.name=Swat Heavy Vest
 item.GasSwat_boots.name=Swat Heavy Boots
 
-item.Tactical_helmet.name=Tactical Nightvision Goggles
-item.Tactical_chest.name=Spec-ops Vest
-item.Tactical_boots.name=Spec-ops Boots
+item.Tactical_helmet.name=战术夜视护目镜
+item.Tactical_chest.name=特种兵 护甲
+item.Tactical_boots.name=特种兵 靴子
 
-item.Umbrella_helmet.name=Umbrella Corp. Helmet
-item.Umbrella_chest.name=Umbrella Corp. Chestpiece
-item.Umbrella_boots.name=Umbrella Corp. Boots
+item.Umbrella_helmet.name=保护伞公司作战盔
+item.Umbrella_chest.name=保护伞公司作战靴
+item.Umbrella_boots.name=保护伞公司作战服
 
-item.KCPD_boots.name=KCPD boots
-item.KCPD_chest.name=KCPD vest
+item.KCPD_boots.name=堪萨斯城警察局作战靴
+item.KCPD_chest.name=堪萨斯城警察局作战服
 
-item.Nazisanta_helmet.name=Third Reich Santa Hat
-item.Nazisanta_chest.name=Third Reich Santa Coat
-item.Nazisanta_boots.name=Third Reich Santa Boots
+item.Nazisanta_helmet.name=第三帝国圣诞帽
+item.Nazisanta_chest.name=第三帝国圣诞服
+item.Nazisanta_boots.name=第三帝国圣诞靴
 
 item.Santa_helmet.name=Santa Beret
 item.Santa_chest.name=Santa Coat
@@ -517,17 +517,17 @@ item.mw_TinIngot.name=锡锭
 item.mw_LeadIngot.name=铅锭
 item.mw_GunmetalIngot.name=炮铜锭
 item.mw_CopperIngot.name=铜锭
-
-item.mw_CarbonComposite.name=Carbon Composite
-item.mw_CarbonFiber.name=Carbon Fiber
-item.mw_GunmetalPlate.name=Gunmetal Plate
-item.mw_GraphiteChunk.name=Graphite Chunk
-item.mw_SteelDust.name=Steel Dust
-item.mw_SulfurDust.name=Sulfur Dust
-item.mw_PlasticPlate.name=Plastic Plate
-item.mw_SyntheticPlastic.name=Synthetic Plastic
-item.mw_SyntheticPolymerComposite.name=Synthetic Polymer Composite
-item.mw_GunmetalComposite.name=Gunmetal Composite
+#其他材料
+item.mw_CarbonComposite.name=碳复合材料
+item.mw_CarbonFiber.name=碳纤维
+item.mw_GunmetalPlate.name=炮铜板
+item.mw_GraphiteChunk.name=石墨
+item.mw_SteelDust.name=钢粉
+item.mw_SulfurDust.name=硫磺粉
+item.mw_PlasticPlate.name=塑料板
+item.mw_SyntheticPlastic.name=人造塑料
+item.mw_SyntheticPolymerComposite.name=人造聚合物复合材料
+item.mw_GunmetalComposite.name=青铜复合材料
 
 itemGroup.guns_tab=维克的现代战争|资源
 
@@ -549,15 +549,15 @@ itemGroup.GadgetsTab=维克的现代战争|装置
 
 itemGroup.BlocksTab=维克的现代战争|方块
 
-key.categories.weaponlib=Modern Warfare
+key.categories.weaponlib=维克的现代战争
 
 key.texture_change=Change Gun Skin
 
-key.fire_mode=Selective Fire
+key.fire_mode=切换射击模式
 
-key.reload=Reload Gun
+key.reload=重新装填
 
-key.attachment=Attachment Mode
+key.attachment=配件模式
 
 key.recoil_fitter=Grip Catagory
 
@@ -567,26 +567,31 @@ key.silencer=Barrel Catagory
 
 key.categories.futuristicarsenal=Modern Warfare
 
-key.laser=Switch Laser
+key.laser=开关镭射指示器
 
 key.add=Zoom In
 
 key.subtract=Zoom Out
 
-key.proning=Proning
+key.proning=匍匐
 
-gui.attachmentMode.changeScope=Press [%s] to change scope
-gui.attachmentMode.changeBarrelRig=Press [%s] to change barrel rig
-gui.attachmentMode.changeCamo=Press [%s] to change camo
-gui.attachmentMode.changeUnderBarrelRig=Press [%s] to add under-barrel rig
-gui.attachmentMode.applyLaser= Press [%s] to apply laser attachment
-gui.ammoCounter=Ammo: %s
-gui.noMagazine=No magazine
-gui.noAmmo=No ammo
-gui.firearmMode=Firearm mode: %s
-gui.firearmMode.semi=Semi
-gui.firearmMode.auto=Auto
-gui.firearmMode.burst=Burst
+#补充缺失部分的key
+key.inspect=检视
+key.nightVision=开关夜视仪
+key.unload=卸下弹匣
+
+gui.attachmentMode.changeScope=按 [%s] 安装瞄准镜配件
+gui.attachmentMode.changeBarrelRig=按 [%s] 安装枪管配件
+gui.attachmentMode.changeCamo=按 [%s] 安装枪械涂装
+gui.attachmentMode.changeUnderBarrelRig=按 [%s] 安装握把配件
+gui.attachmentMode.applyLaser= 按 [%s] 安装镭射配件
+gui.ammoCounter=弹药： %s
+gui.noMagazine=没有弹匣!
+gui.noAmmo=没有弹药!
+gui.firearmMode=射击模式: %s
+gui.firearmMode.semi=手动单发
+gui.firearmMode.auto=全自动
+gui.firearmMode.burst=连发
 gui.inventoryFull=Inventory full
 gui.currentZoom=Zoom: %s%%
 gui.grenadeExplodes=Explodes in %s sec

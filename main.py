@@ -13,7 +13,7 @@ if __name__ == '__main__':
     with open("pack.mcmeta", "w", encoding="utf-8") as mcmeta:
         mcmeta.write(repr(content))
     with zipfile.ZipFile(f"./TLSAftermath-Language-Package-v{time.strftime('%y.%m.%d', time.localtime())}.zip",
-                         mode="w") as package:
+                        mode="w") as package:
         for i in os.listdir("./assets"):
             package.write(f"./assets/{i}/lang/zh_CN.lang", f"assets/{i}/lang/zh_CN.lang")
         package.write("./pack.mcmeta", "pack.mcmeta")

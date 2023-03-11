@@ -572,6 +572,11 @@ key.subtract=Zoom Out
 
 key.proning=Proning
 
+#补充缺失部分的key
+key.inspect=Inspect
+key.nightVision=Night Vision
+key.unload=Unload
+
 gui.attachmentMode.changeScope=Press [%s] to change scope
 gui.attachmentMode.changeBarrelRig=Press [%s] to change barrel rig
 gui.attachmentMode.changeCamo=Press [%s] to change camo
